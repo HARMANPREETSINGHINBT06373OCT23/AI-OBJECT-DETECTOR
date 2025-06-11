@@ -43,8 +43,8 @@ SmartVision AI is a web-based real-time object detection application that uses y
 ## 🛠️ Setup Instructions
 
 ### 1. Clone this repository
-2.run app.py file
-3.click on local storage generated link
-4. start using happily.
+    2.run app.py file
+    3.click on local storage generated link
+    4. start using happily.
 
 
